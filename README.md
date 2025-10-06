@@ -72,9 +72,10 @@ sudo setoolkit
 3) Credential Harvester Attack Method  
 ```
 
-<img width="957" height="720" alt="image" src="https://github.com/user-attachments/assets/b62b1dbc-f8ee-4551-b653-d64a66a20d9c" />
+<img width="745" height="458" alt="image" src="https://github.com/user-attachments/assets/6226ec93-4fbd-430f-9fd3-91dc8c6b62ff" />
 
-<img width="851" height="777" alt="image" src="https://github.com/user-attachments/assets/a665e068-4178-476c-95c3-92f12eb20ddc" />
+<img width="891" height="585" alt="image" src="https://github.com/user-attachments/assets/8108fb81-9ae9-41a8-91be-533b87557903" />
+
 
 
 **3. Enter your IP address as the attacker server.**
@@ -82,23 +83,28 @@ sudo setoolkit
 ```bash
 2) Site Cloner
 ```
-<img width="663" height="343" alt="image" src="https://github.com/user-attachments/assets/e8784074-0ef6-4b44-8f85-ca2ea9f0bb1d" />
+<img width="927" height="419" alt="image" src="https://github.com/user-attachments/assets/b28ed39d-2ebc-4e8f-ba7e-93875e8b5168" />
+
 
 **5. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
 
-<img width="843" height="199" alt="image" src="https://github.com/user-attachments/assets/e7f7e8b6-c6cf-4260-9dd4-7314075884cf" />
+<img width="950" height="362" alt="image" src="https://github.com/user-attachments/assets/a0cc2fde-7ea0-4867-9854-d4ced959e73b" />
+
 
 
 **6. Send the generated link to the victim.**
 
-<img width="1278" height="842" alt="image" src="https://github.com/user-attachments/assets/bf05c7a1-c679-4f73-a78f-4d89d27bc1ee" />
+<img width="937" height="680" alt="image" src="https://github.com/user-attachments/assets/dddb777c-23ee-4744-8570-2425aa11baee" />
+
+
 
 
 **7. Once the victim logs in → their credentials are stored in:**
 ```bash
 /var/www/html/
 ```
-<img width="945" height="427" alt="image" src="https://github.com/user-attachments/assets/0f49e7ad-9b92-4b0b-bd59-4d303b47634c" />
+<img width="847" height="227" alt="image" src="https://github.com/user-attachments/assets/11dd0556-7854-4f00-8bcc-d3c31edd0af1" />
+
 
 
 
